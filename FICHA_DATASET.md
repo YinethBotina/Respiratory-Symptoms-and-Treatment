@@ -19,7 +19,7 @@
 
 ## 2. Licença
 
-- **Declarada pelo autor** (verificada na página do Kaggle): Open Database License (ODbL) para a base e Database Contents License (DbCL) para o conteúdo.
+- **Declarada pelo autor**: Open Database License (ODbL) para a base e Database Contents License (DbCL) para o conteúdo.
 - **Na prática**: permite uso e redistribuição **com atribuição (autor e URL) e compartilhamento sob a mesma licença**. A licença não atesta qualidade nem validade clínica: o uso clínico direto está **bloqueado** pela falta de proveniência verificável (seção 5). Uso restrito a ambiente de *sandbox* técnico.
 
 ## 3. Tamanho
