@@ -1,0 +1,19 @@
+﻿disease,cid10,cid10_name,snomed_id,snomed_name
+asthma,J45.9,"Asma, não especificada",SNOMED_195967001,Asma
+bronchiectasis,J47,Bronquectasia,SNOMED_1365813005,Bronquectasia devida e subsequente à tuberculose (transtorno)
+bronchiolitis,J21.9,"Bronquiolite aguda, não especificada",SNOMED_4120002,Bronquiolite
+bronchitis,J40,"Bronquite, não especificada como aguda ou crônica",SNOMED_846639005,Bronquite causada por vapor (transtorno)
+chronic bronchitis,J42,Bronquite crônica não especificada,SNOMED_63480004,Bronquite crônica
+chronic cough,R05,Tosse crônica,SNOMED_68154008,Tosse crônica
+chronic obstructive pulmonary disease,J44.9,Doença pulmonar obstrutiva crônica não especificada,SNOMED_13645005,Doença pulmonar obstrutiva crônica
+mesothelioma,C45.9,Mesotelioma não especificado,SNOMED_109378008,"Mesotelioma (maligno, transtorno clínico)"
+pneumonia,J18,Pneumonia por microrganismo não especificado,SNOMED_233604007,Pneumonia
+pneumothorax,J93.9,Pneumotórax não especificado,SNOMED_36118008,Pneumotórax
+influenza,J11,Influenza [gripe] devido a vírus não identificado,SNOMED_6142004,Influenza [gripe]
+pulmonary hypertension,I27,Outras doenças cardíacas pulmonares,SNOMED_879814007,Hipertensão pulmonar devida a hemangiomatose capilar pulmonar (transtorno)
+sleep apnea,G47.3,Apneia do sono,SNOMED_73430006,Apneia do sono (transtorno)
+respiratory syncytial virus,B97.4,Vírus sincicial respiratório como causa de doenças classificadas em outros capítulos,SNOMED_1163073003,Encefalite causada pelo vírus sincicial respiratório humano (transtorno)
+tuberculosis,A15,Tuberculose pulmonar,SNOMED_15284007,Tuberculose do esôfago (transtorno)
+acute respiratory distress syndrome,J80,Síndrome do desconforto respiratório do adulto,SNOMED_67782005,Síndrome do desconforto respiratório agudo
+asbestosis,J61,Pneumoconiose devida a asbesto [amianto] e outras fibras minerais,SNOMED_22607003,Asbestose
+aspergillosis,B44.9,Aspergilose não especificada,SNOMED_65553006,Aspergilose

@@ -1,0 +1,73 @@
+﻿,Symptoms,icd10_code,icd10_name,snomed_code,snomed_name
+0,coughing,R05,Tosse,SNOMED_248594007,Tosse por fístula traqueoesofágica (achado)
+1,tight feeling in the chest,R07.4,"Dor no peito, não especificada",SNOMED_23924001,Peito apertado
+2,wheezing,R06.2,Sibilos,SNOMED_56018004,Sibilos
+3,shortness of breath,R06.0,Dispneia,SNOMED_135833008,Escore de falta de ar CLASP
+4,fever,R50.9,"Febre, não especificada",SNOMED_386661006,Febre
+5,cold,J06.9,"Infecção aguda das vias aéreas superiores, não especificada",SNOMED_191210005,Anemia hemolítica do tipo resfriado primário (transtorno)
+6,allergy,T78.4,"Alergia, não especificada",SNOMED_293584003,Alergia ao paracetamol (achado)
+7,coughing up yellow or green mucus daily,R09.3,Escarro anômalo,SNOMED_42192008,Escarro purulento
+8,shortness of breath that gets worse during flare-ups,R06.0,Dispneia,SNOMED_267036007,Dispneia (achado)
+9,"fatigue, feeling run-down or tired",R53,Mal-estar e fadiga,SNOMED_84229001,Fadiga
+10,chest pain,R07.4,"Dor no peito, não especificada",SNOMED_225566008,Dor torácica isquêmica (achado)
+11,whistling sound while you breathe,R06.2,Sibilos,SNOMED_56018004,Sibilos
+12,coughing up blood,R04.2,Hemoptise,SNOMED_66857006,Hemoptise (achado)
+13,runny nose,R09.8,Outros sintomas e sinais especificados relativos aos sistemas circulatório e respiratório,SNOMED_64531003,Secreção nasal
+14,stuffy nose,R09.8,Outros sintomas e sinais especificados relativos aos sistemas circulatório e respiratório,SNOMED_68235000,Congestão nasal
+15,loss of appetite,R63.0,Anorexia,SNOMED_79890006,Perda de apetite
+16,cough,R05,Tosse,SNOMED_248594007,Tosse por fístula traqueoesofágica (achado)
+17,low-grade fever,R50.9,"Febre, não especificada",SNOMED_386661006,Febre
+18,chest congestion,R09.8,Outros sintomas e sinais especificados relativos aos sistemas circulatório e respiratório,SNOMED_23924001,Peito apertado
+19,whistling sound while breathing,R06.2,Sibilos,SNOMED_56018004,Sibilos
+20,yellow cough,R09.3,Escarro anômalo,SNOMED_161925006,Tosse produtiva com escarro amarelo
+21,feeling run-down or tired,R53,Mal-estar e fadiga,SNOMED_84229001,Fadiga
+22,mucus,R09.3,Escarro anômalo,SNOMED_49909006,Muco
+23,chronic cough,R05,Tosse crônica,SNOMED_68154008,Tosse crônica
+24,fatigue,R53,Mal-estar e fadiga,SNOMED_16469821000119106,Fadiga devida e subsequente a acidente vascular cerebral com hemorragia intracraniana (transtorno)
+25,lower back pain,M54.5,Lombalgia,SNOMED_279041008,Síndrome de dor miofascial da região lombar baixa
+26,dry cough,R05,Tosse,SNOMED_11833005,Tosse seca
+27,greenish cough,R09.3,Escarro anômalo,SNOMED_42192008,Escarro purulento
+28,cough with blood,R04.2,Hemoptise,SNOMED_66857006,Hemoptise (achado)
+29,sweating,R61,Hiperidrose generalizada,SNOMED_415690000,Sudorese
+30,shaking,R50.9,"Febre, não especificada",SNOMED_102458000,Síndrome do bebê sacudido
+31,rapid breathing,R06.0,Dispneia,SNOMED_248581005,Respiração rápida e superficial
+32,shallow breathing,R06.0,Dispneia,SNOMED_386616007,Respiração superficial
+33,low energy,R53,Mal-estar e fadiga,SNOMED_228038005,Alimento de baixa energia
+34,nausea,R11,Náusea e vômito,SNOMED_2919008,"Náusea, vômito e diarreia (transtorno)"
+35,vomiting,R11,Náusea e vômito,SNOMED_134021000119105,Vômito de matéria fecal (transtorno)
+36,sharp chest pain,R07.4,"Dor no peito, não especificada",SNOMED_29857009,Dor torácica
+37,bluish skin,R23.0,Cianose,SNOMED_3415004,Cianose
+38,rapid heartbeat,R00.0,"Taquicardia, não especificada",SNOMED_3424008,Taquicardia
+39,high fever,R50.9,"Febre, não especificada",SNOMED_386661006,Febre
+40,headache,R51,Cefaleia,SNOMED_1260323006,Cefaleia devida a hemorragia subaracnóidea espontânea (achado)
+41,muscle aches,M79.1,Mialgia,SNOMED_240107001,Mialgia viral
+42,joint pain,M25.5,Dor articular,SNOMED_202483004,Dor na articulação metacarpofalangiana
+43,chills,R50.9,"Febre, não especificada",SNOMED_463796001,Dispositivo de resfriamento de cimento ortopédico (objeto físico)
+44,sore throat,R07.0,Dor na garganta,SNOMED_267102003,Dor de garganta
+45,nasal congestion,R09.8,Outros sintomas e sinais especificados relativos aos sistemas circulatório e respiratório,SNOMED_68235000,Congestão nasal
+46,diarrhea,A09,"Gastroenterite e colite de origem infecciosa, outras e não especificadas",SNOMED_62315008,Diarreia (achado)
+47,breath,R09.8,Outros sintomas e sinais especificados relativos aos sistemas circulatório e respiratório,SNOMED_111489007,Transtorno do sono relacionado à respiração
+48,dizziness,R42,Tontura e vertigem,SNOMED_404640003,Tontura
+49,fainting,R55,Síncope e colapso,SNOMED_162271007,Sensação de desmaio
+50,heart palpitations,R00.2,Palpitações,SNOMED_80313002,Palpitações
+51,edema,R60.9,"Edema, não especificado",SNOMED_267038008,Edema (achado)
+52,snoring,R06.5,Ronco,SNOMED_72863001,Ronco
+53,daytime sleepiness,G47.8,Outros transtornos do sono,SNOMED_1367959007,Sonolência diurna excessiva
+54,pauses in breathing,R06.8,Outras anomalias da respiração,SNOMED_1023001,Apneia (achado)
+55,difficulties with memory and concentration,R41.8,Outros sintomas e sinais e os não especificados relativos às funções cognitivas e à consciência,SNOMED_192071009,Distúrbio de memória leve
+56,unusual moodiness,R45.4,Irritabilidade e raiva,SNOMED_1196831009,Nevus melanocítico irritado da pele (transtorno)
+57,irritability,R45.4,Irritabilidade e raiva,SNOMED_724733005,Transtorno desafiador opositivo coocorrente com irritabilidade-raiva crônica
+58,frequently waking,G47.8,Outros transtornos do sono,SNOMED_54532007,"Transtorno do ciclo vigília-sono, tipo de mudança frequente"
+59,morning headaches,R51,Cefaleia,SNOMED_162310002,Cefaleia matinal
+60,dry mouth,K11.7,Distúrbios da secreção salivar,SNOMED_469168008,Estimulador de saliva para boca seca
+61,wheezing cough,R05,Tosse,SNOMED_161947006,Tosse noturna e sibilos
+62,"short, shallow and rapid breathing",R06.0,Dispneia,SNOMED_248581005,Respiração rápida e superficial
+63,a cough that lasts more than three weeks,R05,Tosse,SNOMED_68154008,Tosse crônica
+64,loss of appetite and unintentional weight loss,R63.0,Anorexia,SNOMED_79890006,Perda de apetite
+65,night sweats,R61.9,"Hiperidrose, não especificada",SNOMED_42984000,Sudorese noturna
+66,short of breath,R06.0,Dispneia,SNOMED_135833008,Escore de falta de ar CLASP
+67,distressing,R45.8,Outros sintomas e sinais relativos ao estado emocional,SNOMED_206260003,Nascido vivo com sofrimento fetal pré-trabalho de parto (achado)
+68,faster heart beating,R00.0,"Taquicardia, não especificada",SNOMED_3424008,Taquicardia
+69,pain,R52.9,"Dor, não especificada",SNOMED_86208007,Síndrome de dor lombar e hematúria (transtorno)
+70,persistent dry cough,R05,Tosse,SNOMED_49727002,Tosse
+71,chest tightness or chest pain,R07.4,"Dor no peito, não especificada",SNOMED_23924001,Peito apertado

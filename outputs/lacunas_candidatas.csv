@@ -1,0 +1,4 @@
+﻿Lacuna,Evidência medida,Entregável
+1. Terminologia respiratória em PT,Sintomas analisados: 77 variantes de texto; cobertura de mapeamento alcançada de 97%,mapeo_sintomas_cid10_snomed.csv
+2. Critérios mínimos de proveniência,Critérios cumpridos: 5/12; obrigatórios completos: False,criterios_minimos_procedencia.csv
+3. Bases de recomendação validadas,Linhas sem intervenção terapêutica válida (sem dado + diagnóstico + orientação): 15.1%; linhas com alerta de plausibilidade: 21.5%,recomendador_base_protocolos.csv

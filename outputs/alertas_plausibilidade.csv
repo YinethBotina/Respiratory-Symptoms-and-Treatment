@@ -1,0 +1,4 @@
+﻿Regra,Linhas,% das linhas
+R1 · 'Doença' que é um sintoma (chronic cough),912,2.4
+R2 · Bronquite com antibiótico (prescrição uniforme),4485,11.6
+R3 · Pneumotórax apenas com soro fisiológico isotônico,2880,7.5

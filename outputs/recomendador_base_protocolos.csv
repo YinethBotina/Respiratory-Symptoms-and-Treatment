@@ -1,0 +1,4 @@
+﻿Protocolo,n_teste,top1,top1_dp,top3,top3_dp
+"A - Perfil completo, linhas brutas",7119,0.934,0.002,0.998,0.0
+"B - Perfil completo, perfis únicos, partição por perfil",166,0.767,0.033,0.978,0.018
+"C - Apenas doença, perfis únicos, partição por perfil",166,0.683,0.038,0.981,0.011

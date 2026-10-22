@@ -1,0 +1,13 @@
+﻿,id,Critério mínimo de proveniência,Nível,Fonte de evidência,Estado
+0,C1,Autor/publicador identificável,Obrigatório,declarado,cumpre
+1,C2,URL,Recomendado,declarado,cumpre
+2,C3,Licença explícita,Obrigatório,declarado,cumpre
+3,C4,Declara se é real ou sintético,Obrigatório,declarado,sem evidência
+4,C5,Metodologia / dicionário de dados documentado,Obrigatório,declarado,cumpre
+5,C6,Aprovação ética/anonimização,Recomendado,declarado,sem evidência
+6,C7,Data e versão,Recomendado,declarado,cumpre
+7,C8,Identificador de registro/paciente,Recomendado,medido,não cumpre
+8,C9,Variável temporal (data do episódio),Recomendado,medido,não cumpre
+9,C10,Unicidade: duplicadas exatas < 5 %,Obrigatório,medido,não cumpre
+10,C11,Codificação padrão nativa (original) (CID-10/SNOMED),Recomendado,medido,não cumpre
+11,C12,Validação clínica,Obrigatório,declarado,não cumpre
